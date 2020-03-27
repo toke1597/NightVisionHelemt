@@ -1,0 +1,12 @@
+name: NightVisionHelmet
+version: 1.0
+main: com.toke1597.nightv.Main.NightV
+api-version: '1.15'
+authors: [toke1597]
+description: Simply Night Vision Helmet plugin!
+commands:
+  night:
+    description: §bGives NightVisionHelmet to you!
+  battery:
+    description: §bGives you the battery used for night vision.
+

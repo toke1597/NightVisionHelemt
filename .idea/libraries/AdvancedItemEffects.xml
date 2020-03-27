@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AdvancedItemEffects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Bukkit_Advanced_Item_Effects-master/AdvancedItemEffects.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
